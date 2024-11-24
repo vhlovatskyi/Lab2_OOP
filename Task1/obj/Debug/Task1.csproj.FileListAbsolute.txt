@@ -1,0 +1,7 @@
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\bin\Debug\Task1.exe.config
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\bin\Debug\Task1.exe
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\bin\Debug\Task1.pdb
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\obj\Debug\Task1.exe
+D:\cloud\code\uni\2 курс 1 сем\Lab2\Task1\obj\Debug\Task1.pdb

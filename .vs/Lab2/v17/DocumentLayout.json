@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEF16CE-A6F4-4210-8BBD-C0949F8D10C4}|Task1\\Task1.csproj|D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\task1\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEF16CE-A6F4-4210-8BBD-C0949F8D10C4}|Task1\\Task1.csproj|solutionrelative:task1\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A69E31-39D9-447A-9C55-10A6A6F286A1}|Task2\\Task2.csproj|D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A69E31-39D9-447A-9C55-10A6A6F286A1}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEF16CE-A6F4-4210-8BBD-C0949F8D10C4}|Task1\\Task1.csproj|d:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\lab2\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEF16CE-A6F4-4210-8BBD-C0949F8D10C4}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEF16CE-A6F4-4210-8BBD-C0949F8D10C4}|Task1\\Task1.csproj|D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\task1\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEF16CE-A6F4-4210-8BBD-C0949F8D10C4}|Task1\\Task1.csproj|solutionrelative:task1\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAowGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:14:19.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixOperations.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task1\\MatrixOperations.cs",
+              "RelativeDocumentMoniker": "Task1\\MatrixOperations.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task1\\MatrixOperations.cs",
+              "RelativeToolTip": "Task1\\MatrixOperations.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:50:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixData.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task1\\MatrixData.cs",
+              "RelativeDocumentMoniker": "Task1\\MatrixData.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task1\\MatrixData.cs",
+              "RelativeToolTip": "Task1\\MatrixData.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAqwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:48:49.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\Lab2\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:36:32.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
